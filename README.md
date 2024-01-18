@@ -13,5 +13,6 @@ Required toolboxes:
 * Simscape & Simscape Multibody
 
 ## Setup Instructions for AAS GNC 2024:
-1. Access your MATLAB Online trial: (link). This will require making a free account on mathworks.com
-2. Copy repository into your MATLAB Drive: (link) 
+1. Launch your browser. We recommend using Google Chrome.
+2. Access a temporary license for MATLAB Online here: [https://www.mathworks.com/licensecenter/classroom/4312200/](https://www.mathworks.com/licensecenter/classroom/4312200/). If you do not already have a MathWorks.com account, you will need to make one.
+3. Once in MATLAB Online (you should see "matlab.mathworks.com" in your browser's address bar), replace the address with this new address and press enter: [https://matlab.mathworks.com/open/github/v1?repo=juliabrault-ML/KalmanFilterWorkshop&project=Kalmanfilterworkshop.prj](https://matlab.mathworks.com/open/github/v1?repo=juliabrault-ML/KalmanFilterWorkshop&project=Kalmanfilterworkshop.prj). This will automatically load the workshop files from the GitHub repository into your MATLAB Drive.
