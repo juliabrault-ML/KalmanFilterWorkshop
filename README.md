@@ -1,5 +1,5 @@
 # Kalman Filter Workshop
-This is a 1-hour workshop that consists of two exercises:
+This is a 2-hour workshop that consists of two exercises:
 1) Linear Kalman Filters
 2) Extended Kalman Filters
 
