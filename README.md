@@ -3,6 +3,8 @@ This is a 2-hour workshop that consists of two exercises:
 1) Linear Kalman Filters
 2) Extended Kalman Filters
 
+The files in this branch are made to work with MATLAB R2024b.
+
 Required toolboxes: 
 * MATLAB
 * Simulink
